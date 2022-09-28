@@ -11,12 +11,12 @@
 <head>
     <title>UserData</title>
     <style>
-        /*表格样式*/
+
         * {
             margin: 0;
             padding: 0;
         }
-
+        /*表格样式*/
         table {
 
             width: 40%;
